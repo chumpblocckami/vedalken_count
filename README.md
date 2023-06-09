@@ -21,23 +21,23 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/chumpblocckami/vedalken_count/tree/master/readme/651567795/year.md">
-				vedalken_count
+			<a href="https://github.com/chumpblocckami/vedalken_count/tree/master/readme/620828141/year.md">
+				vedalken
 			</a>
 		</td>
 		<td>
-			2023/6/7 2:35 PM UTC
+			2023/6/6 6:11 PM UTC
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/chumpblocckami/vedalken_count/raw/master/graph/651567795/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/chumpblocckami/vedalken_count/raw/master/graph/620828141/small/year.png" height="20"> 35
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/6/9 2:42 PM UTC</i></small>
+<small><i>Last updated on 2023/6/9 6:11 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
